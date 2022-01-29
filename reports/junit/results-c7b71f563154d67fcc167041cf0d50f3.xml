@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.0400" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-25T22:47:56" tests="0" file="cypress/integration/Challenge/challenge.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Challange automation" timestamp="2021-11-25T22:47:56" tests="4" time="16.9980" failures="0">
+    <testcase name="Challange automation Find Office, Windows, Surface, Xbox, Deals, Support" time="3.9770" classname="Find Office, Windows, Surface, Xbox, Deals, Support">
+    </testcase>
+    <testcase name="Challange automation Go to Windows" time="5.8560" classname="Go to Windows">
+    </testcase>
+    <testcase name="Challange automation Search feature" time="1.6890" classname="Search feature">
+    </testcase>
+    <testcase name="Challange automation Prices feature" time="4.6560" classname="Prices feature">
+    </testcase>
+  </testsuite>
+</testsuites>
